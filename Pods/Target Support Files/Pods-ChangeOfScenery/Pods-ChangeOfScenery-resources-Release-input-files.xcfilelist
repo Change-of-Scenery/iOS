@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-ChangeOfScenery/Pods-ChangeOfScenery-resources.sh
+${PODS_ROOT}/CDYelpFusionKit/Resources/Images.xcassets
+${PODS_ROOT}/GoogleMaps/Maps/Frameworks/GoogleMaps.xcframework/ios-arm64/GoogleMaps.framework/Resources/GoogleMaps.bundle
+${PODS_ROOT}/GoogleMaps/Maps/Frameworks/GoogleMaps.xcframework/ios-arm64_x86_64-simulator/GoogleMaps.framework/Resources/GoogleMaps.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/GooglePlaces/GooglePlacesResources.bundle

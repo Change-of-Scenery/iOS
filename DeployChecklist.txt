@@ -1,0 +1,17 @@
+//
+//  DeployChecklist.txt
+//  ChangeOfScenery
+//
+//  Created by Cameron Conway on 9/18/24.
+//
+
+// 1. Comment out utility links.
+// 2. Set .isEditable to false.
+// 3. Uncomment didSelect for places, comment updateGeoLocation
+
+
+North End
+42.363834259722317, -71.055081842153598
+
+Hingham
+42.2418172,-70.889759

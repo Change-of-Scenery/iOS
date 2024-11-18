@@ -1,0 +1,6 @@
+module Pods_ChangeOfScenery {
+  umbrella header "Pods-ChangeOfScenery-umbrella.h"
+
+  export *
+  module * { export * }
+}
